@@ -1,0 +1,22 @@
+{
+    "name": "jorbascrumps/intervention-filter-tint",
+    "description": "A simple tint filter for Intervention Image.",
+    "keywords": ["intervention", "filter"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Chris Wright",
+            "email": "chriswright@live.com",
+            "homepage": "http://chriswright.dev"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Buonzz\\Template\\": "src/"
+        }
+    }
+}
