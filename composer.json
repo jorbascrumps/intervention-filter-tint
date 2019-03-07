@@ -2,7 +2,6 @@
     "name": "jorbascrumps/intervention-filter-tint",
     "description": "A simple tint filter for Intervention Image.",
     "keywords": ["intervention", "filter"],
-    "license": "DBAD",
     "authors": [
         {
             "name": "Chris Wright",
